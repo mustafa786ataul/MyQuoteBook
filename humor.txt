@@ -1,2 +1,1 @@
 I want to add some quotes to this text file.
-This is the second line I am adding to it.
