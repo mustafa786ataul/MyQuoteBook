@@ -2,6 +2,10 @@ You are beautiful Zareen
 adding first line in this file
 Adding Second line
 Adding line to see the difference
+<<<<<<< Updated upstream
 
 
 Another line to added for stash.
+=======
+This line is added to check the stash changes
+>>>>>>> Stashed changes
