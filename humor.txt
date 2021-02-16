@@ -1,1 +1,1 @@
-I want to add some quotes to this text file.
+Deleted one line and added the another line.
